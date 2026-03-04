@@ -12,7 +12,6 @@
 📧 sujalsubedi541@gmail.com  
 🌐 Portfolio: https://sujalsubedixx.github.io/portfolio/  
 🚀 Live Project: https://www.sujalsubedi100.com.np/  
-💻 GitHub: https://github.com/sujalsubediXX  
 
 ---
 
