@@ -36,7 +36,8 @@ I focus on building scalable, secure, and performance-oriented web and mobile ap
 - Java  
 - Python  
 - JavaScript  
-- PHP  
+- PHP
+- C#
 
 ### ⚙️ Frameworks & Technologies
 - MERN Stack  
