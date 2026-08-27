@@ -97,23 +97,6 @@ Developed using React, Tailwind CSS, Node.js, and Vite:
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujalsubediXX&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sujalsubediXX&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sujalsubediXX&theme=react-dark" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
