@@ -6,7 +6,7 @@
 
 # 👨‍💻 Sujal Subedi
 
-🎓 **BCA Student | Full Stack Developer | MERN Stack**
+🎓 **Full Stack Developer | React · Node.js · TypeScript · MongoDB**
 
 📍 Kathmandu, Nepal  
 📧 sujalsubedi541@gmail.com  
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I am a Bachelor in Computer Application (BCA) student with a strong foundation in software engineering and full-stack development.
+I have a strong foundation in software engineering and full-stack development.
 
 I focus on building scalable, secure, and performance-oriented web and mobile applications using modern technologies.
 
@@ -42,7 +42,6 @@ I focus on building scalable, secure, and performance-oriented web and mobile ap
 ### ⚙️ Frameworks & Technologies
 - MERN Stack  
 - Next.js  
-- React Native  
 - Spring / Spring Boot  
 - WordPress  
 
@@ -67,6 +66,18 @@ A full-featured healthcare system with:
 - Secure patient data handling  
 - Intelligent appointment scheduling  
 - Real-time booking system  
+
+---
+
+### 🏠 RentEase — A Product Rental Platform (MERN)
+
+A full-featured rental platform with:
+Role-based access (Admin, Owner, Renter)
+Secure KYC verification and user authentication
+Smart rental scheduling with availability management
+Real-time booking and item rental system
+Owner dashboard for listings, bookings, and earnings
+Wishlist, cart, reviews, and rating functionality
 
 ---
 
