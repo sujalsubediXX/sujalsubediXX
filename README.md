@@ -72,12 +72,12 @@ A full-featured healthcare system with:
 ### 🏠 RentEase — A Product Rental Platform (MERN)
 
 A full-featured rental platform with:
-Role-based access (Admin, Owner, Renter)
-Secure KYC verification and user authentication
-Smart rental scheduling with availability management
-Real-time booking and item rental system
-Owner dashboard for listings, bookings, and earnings
-Wishlist, cart, reviews, and rating functionality
+- Role-based access (Admin, Owner, Renter)
+- Secure KYC verification and user authentication
+- Smart rental scheduling with availability management
+- Real-time booking and item rental system
+- Owner dashboard for listings, bookings, and earnings
+- Wishlist, cart, reviews, and rating functionality
 
 ---
 
