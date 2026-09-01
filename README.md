@@ -113,15 +113,6 @@ Developed using React, Tailwind CSS, Node.js, and Vite:
 
 ---
 
-## 🎯 Current Focus
-
-- Advanced MERN Architecture  
-- Scalable Backend Systems  
-- AI-integrated Applications  
-- Cross-platform Mobile Apps (React Native)  
-
----
-
 ## 💡 Philosophy
 
 > Learn. Build. Optimize. Repeat.
